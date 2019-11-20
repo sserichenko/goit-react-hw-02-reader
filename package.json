@@ -1,7 +1,7 @@
 {
   "name": "goit-react-hw-01-component",
   "version": "0.1.0",
-  "homepage": "https://sserichenko.github.io/goit-react-hw-02-reader/",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "prop-types": "^15.7.2",
