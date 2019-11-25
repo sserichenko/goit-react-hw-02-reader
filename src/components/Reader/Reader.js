@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import Controls from './Controls/Controls';
-import Counter from './Counter/Counter';
-import Publication from './Publication/Publication';
+import Controls from '../Controls/Controls';
+import Counter from '../Counter/Counter';
+import Publication from '../Publication/Publication';
 import style from './Reader.module.css';
 
 class Reader extends Component {
